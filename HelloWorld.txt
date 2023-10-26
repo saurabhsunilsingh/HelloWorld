@@ -1,2 +1,4 @@
 Hello World 
-I added this new line 
+
+
+This is the 3rd new line and the 2nd new line has been deleted.
